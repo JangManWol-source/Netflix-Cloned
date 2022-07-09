@@ -1,14 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&family=Roboto&display=swap');
 body {
   background-color: #060701;
   margin: 0;
-  font-family: 'netflix'
-}
-@font-face {
-  font-family: 'netflix';
-  src: url('./assets/netflix.woff2');
+  font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 code {

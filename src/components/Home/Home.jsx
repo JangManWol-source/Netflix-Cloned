@@ -3,7 +3,6 @@ import banner_t from "../../assets/mh_text.webp";
 import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import InfoIcon from "@mui/icons-material/Info";
 import "./Home.css";
-import TopMovies from "../TopMovies/TopMovies";
 const Home = () => {
   return (
     <div className="home">
