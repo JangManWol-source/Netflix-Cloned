@@ -3,7 +3,7 @@ import Profile from "../../Pofile/Profile";
 
 const Footer = () => {
   return (
-    <div className="w-full p-5 flex justify-center text-center text-gray-400">
+    <div className="w-full p-5 flex border-t-4 border-white mt-10 justify-center text-center text-gray-400">
       <div className="w-11/12">
         <Profile />
         <div className="m-2">
